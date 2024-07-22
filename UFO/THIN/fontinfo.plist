@@ -11,16 +11,16 @@
     <key>descender</key>
     <integer>-230</integer>
     <key>familyName</key>
-    <string>Titillio 01</string>
+    <string>Titillio 03</string>
     <key>guidelines</key>
     <array>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>-173</integer>
+        <integer>-183</integer>
         <key>y</key>
-        <integer>875</integer>
+        <integer>911</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -212,7 +212,7 @@
       <real>-230.0</real>
     </array>
     <key>postscriptFontName</key>
-    <string>Titillio01-Thin</string>
+    <string>Titillio03-Thin</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-240</integer>
@@ -231,7 +231,7 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-80</integer>
     <key>styleMapFamilyName</key>
-    <string>Titillio 01 Thin</string>
+    <string>Titillio 03 Thin</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

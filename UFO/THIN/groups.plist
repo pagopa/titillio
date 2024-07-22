@@ -588,8 +588,8 @@
     </array>
     <key>public.kern1.zero</key>
     <array>
-      <string>zero</string>
       <string>zero.zero</string>
+      <string>zero.lf</string>
     </array>
     <key>public.kern1.zero.dnom</key>
     <array>
@@ -1200,8 +1200,8 @@
     </array>
     <key>public.kern2.zero</key>
     <array>
-      <string>zero</string>
       <string>zero.zero</string>
+      <string>zero.lf</string>
     </array>
     <key>public.kern2.zero.dnom</key>
     <array>

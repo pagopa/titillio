@@ -1317,6 +1317,16 @@
       <string>seven.circled</string>
       <string>eight.circled</string>
       <string>nine.circled</string>
+      <string>zero.lf</string>
+      <string>one.lf</string>
+      <string>two.lf</string>
+      <string>three.lf</string>
+      <string>four.lf</string>
+      <string>five.lf</string>
+      <string>six.lf</string>
+      <string>seven.lf</string>
+      <string>eight.lf</string>
+      <string>nine.lf</string>
       <string>zero.pnum</string>
       <string>one.pnum</string>
       <string>two.pnum</string>
@@ -1620,6 +1630,7 @@
       <string>commaabovecomb.case</string>
       <string>strokeshortcomb.case</string>
       <string>dotaccentcomb.i</string>
+      <string>hungarumlautcomb.case.001</string>
       <string>slashshortcomb</string>
       <string>strokeshortcomb.T</string>
       <string>strokelongcomb.case</string>
