@@ -11,16 +11,16 @@
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
-    <string>Titillio 01</string>
+    <string>Titillio 03</string>
     <key>guidelines</key>
     <array>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>448</integer>
+        <integer>250</integer>
         <key>y</key>
-        <integer>982</integer>
+        <integer>937</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -34,9 +34,9 @@
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>267</integer>
+        <integer>355</integer>
         <key>y</key>
-        <integer>673</integer>
+        <integer>756</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -159,7 +159,7 @@
     <key>openTypeOS2VendorID</key>
     <string>CHLB</string>
     <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
+    <integer>900</integer>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
@@ -196,7 +196,7 @@
       <real>-230.0</real>
     </array>
     <key>postscriptFontName</key>
-    <string>Titillio01-Black</string>
+    <string>Titillio03-Black</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-214</integer>
@@ -215,7 +215,7 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-80</integer>
     <key>styleMapFamilyName</key>
-    <string>Titillio 01 Black</string>
+    <string>Titillio 03 Black</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
