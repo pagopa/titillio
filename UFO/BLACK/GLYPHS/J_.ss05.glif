@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss05" format="2">
+  <advance width="1232"/>
+  <note>
+J
+</note>
+  <outline>
+    <component base="_quadriliumstroke"/>
+    <component base="J" xOffset="401" identifier="B329755B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:07:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_quadriliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_quadriliumstroke</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B329755B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

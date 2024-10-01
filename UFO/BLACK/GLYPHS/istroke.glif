@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance width="314"/>
+  <unicode hex="0268"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="39"/>
+    <component base="strokeshortcomb" xOffset="-31" yOffset="-329"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 08:37:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

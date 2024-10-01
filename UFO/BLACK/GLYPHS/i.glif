@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="314"/>
+  <unicode hex="0069"/>
+  <note>
+i
+</note>
+  <anchor x="157" y="0" name="bottom"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 16:26:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

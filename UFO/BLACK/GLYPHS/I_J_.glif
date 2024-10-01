@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="780"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="292" y="710" type="line"/>
+      <point x="60" y="710" type="line"/>
+    </contour>
+    <component base="J" xOffset="351"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-12 06:18:45 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss06" format="2">
+  <advance width="1232"/>
+  <note>
+H
+</note>
+  <outline>
+    <component base="blackSquare" identifier="4BFDA93C"/>
+    <component base="H" xOffset="233" identifier="F6AD3897"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:12:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>blackSquare</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>blackSquare</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4BFDA93C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+        <key>F6AD3897</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

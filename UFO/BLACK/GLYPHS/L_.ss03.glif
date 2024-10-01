@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss03" format="2">
+  <advance width="1270"/>
+  <note>
+L
+</note>
+  <outline>
+    <component base="_sferiliumstroke"/>
+    <component base="L" xOffset="374" identifier="EB1B0887"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:22:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EB1B0887</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

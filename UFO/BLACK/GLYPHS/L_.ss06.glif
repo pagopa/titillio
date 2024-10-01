@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss06" format="2">
+  <advance width="1232"/>
+  <note>
+L
+</note>
+  <outline>
+    <component base="blackSquare" identifier="47592348"/>
+    <component base="L" xOffset="346" identifier="9CB083B2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:19:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>blackSquare</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>blackSquare</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>47592348</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+        <key>9CB083B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

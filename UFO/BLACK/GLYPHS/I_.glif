@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="490"/>
+  <unicode hex="0049"/>
+  <note>
+I
+</note>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="474" y="0" name="ogonek"/>
+  <anchor x="245" y="355" name="stroke"/>
+  <anchor x="245" y="710" name="top"/>
+  <anchor x="129" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="474" y="163" type="line"/>
+      <point x="361" y="163" type="line"/>
+      <point x="361" y="547" type="line"/>
+      <point x="474" y="547" type="line"/>
+      <point x="474" y="710" type="line"/>
+      <point x="16" y="710" type="line"/>
+      <point x="16" y="547" type="line"/>
+      <point x="129" y="547" type="line"/>
+      <point x="129" y="163" type="line"/>
+      <point x="16" y="163" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 16:07:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="490"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb.case" xOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 16:07:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

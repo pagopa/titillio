@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.case" format="2">
+  <advance width="720"/>
+  <outline>
+    <component base="guillemetright" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-23 06:58:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>
