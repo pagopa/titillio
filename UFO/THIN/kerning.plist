@@ -986,6 +986,11 @@
       <key>zero.pnum</key>
       <integer>-23</integer>
     </dict>
+    <key>eight.dnom</key>
+    <dict>
+      <key>seven.dnom</key>
+      <integer>-5</integer>
+    </dict>
     <key>eight.lf</key>
     <dict>
       <key>X</key>
@@ -1118,6 +1123,11 @@
       <key>public.kern2.Y</key>
       <integer>-38</integer>
     </dict>
+    <key>five.dnom</key>
+    <dict>
+      <key>seven.dnom</key>
+      <integer>-3</integer>
+    </dict>
     <key>five.lf</key>
     <dict>
       <key>braceright</key>
@@ -1173,9 +1183,13 @@
     <key>four.dnom</key>
     <dict>
       <key>one.dnom</key>
-      <integer>-20</integer>
+      <integer>-22</integer>
       <key>seven.dnom</key>
-      <integer>-19</integer>
+      <integer>-24</integer>
+      <key>three.dnom</key>
+      <integer>-4</integer>
+      <key>two.dnom</key>
+      <integer>-5</integer>
     </dict>
     <key>four.lf</key>
     <dict>
@@ -1665,6 +1679,11 @@
     <dict>
       <key>public.kern2.period</key>
       <integer>-15</integer>
+    </dict>
+    <key>nine.dnom</key>
+    <dict>
+      <key>seven.dnom</key>
+      <integer>-13</integer>
     </dict>
     <key>nine.lf</key>
     <dict>
@@ -3717,6 +3736,8 @@
       <integer>-38</integer>
       <key>public.kern2.J</key>
       <integer>-28</integer>
+      <key>public.kern2.copyright</key>
+      <integer>-2</integer>
       <key>public.kern2.period</key>
       <integer>-94</integer>
     </dict>
@@ -4456,7 +4477,7 @@
       <key>public.kern2.hyphen.case</key>
       <integer>-91</integer>
       <key>public.kern2.quoteleft</key>
-      <integer>-94</integer>
+      <integer>0</integer>
       <key>public.kern2.quoteright</key>
       <integer>-94</integer>
       <key>public.kern2.quotesingle</key>
@@ -4540,6 +4561,8 @@
       <integer>-53</integer>
       <key>public.kern2.period</key>
       <integer>-94</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>0</integer>
       <key>public.kern2.s</key>
       <integer>-33</integer>
       <key>public.kern2.space</key>
@@ -4692,6 +4715,8 @@
       <integer>-44</integer>
       <key>public.kern2.period</key>
       <integer>-91</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>-30</integer>
       <key>public.kern2.s</key>
       <integer>-25</integer>
       <key>public.kern2.space</key>
@@ -5564,7 +5589,9 @@
     <key>seven.dnom</key>
     <dict>
       <key>four.dnom</key>
-      <integer>-15</integer>
+      <integer>-21</integer>
+      <key>six.dnom</key>
+      <integer>-4</integer>
     </dict>
     <key>seven.lf</key>
     <dict>
@@ -5680,6 +5707,11 @@
     <dict>
       <key>foursuperior</key>
       <integer>-15</integer>
+    </dict>
+    <key>six.dnom</key>
+    <dict>
+      <key>seven.dnom</key>
+      <integer>-4</integer>
     </dict>
     <key>six.lf</key>
     <dict>
@@ -5817,6 +5849,11 @@
       <key>question</key>
       <integer>-15</integer>
     </dict>
+    <key>three.dnom</key>
+    <dict>
+      <key>seven.dnom</key>
+      <integer>-6</integer>
+    </dict>
     <key>three.lf</key>
     <dict>
       <key>backslash</key>
@@ -5882,6 +5919,13 @@
       <integer>10</integer>
       <key>quotesinglbase</key>
       <integer>10</integer>
+    </dict>
+    <key>two.dnom</key>
+    <dict>
+      <key>four.dnom</key>
+      <integer>-3</integer>
+      <key>seven.dnom</key>
+      <integer>-3</integer>
     </dict>
     <key>two.lf</key>
     <dict>
