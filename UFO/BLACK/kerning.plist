@@ -1571,6 +1571,13 @@
       <key>x</key>
       <integer>12</integer>
     </dict>
+    <key>four.dnom</key>
+    <dict>
+      <key>one.dnom</key>
+      <integer>-16</integer>
+      <key>seven.dnom</key>
+      <integer>-14</integer>
+    </dict>
     <key>four.lf</key>
     <dict>
       <key>asterisk</key>
@@ -1580,7 +1587,7 @@
       <key>degree</key>
       <integer>-53</integer>
       <key>one.lf</key>
-      <integer>-27</integer>
+      <integer>-30</integer>
       <key>parenright</key>
       <integer>-24</integer>
       <key>parenright.case</key>
@@ -3972,7 +3979,7 @@
       <key>public.kern2.V</key>
       <integer>-16</integer>
       <key>public.kern2.W</key>
-      <integer>-5</integer>
+      <integer>-6</integer>
       <key>public.kern2.Y</key>
       <integer>-30</integer>
       <key>public.kern2.Z</key>
@@ -5393,6 +5400,8 @@
       <integer>-16</integer>
       <key>public.kern2.Y</key>
       <integer>-23</integer>
+      <key>public.kern2.copyright</key>
+      <integer>-2</integer>
       <key>public.kern2.period</key>
       <integer>-73</integer>
     </dict>
@@ -6574,6 +6583,8 @@
       <integer>-35</integer>
       <key>public.kern2.period</key>
       <integer>-136</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>-10</integer>
       <key>public.kern2.s</key>
       <integer>-19</integer>
       <key>public.kern2.space</key>
@@ -7464,6 +7475,11 @@
       <integer>-19</integer>
       <key>seven.lf</key>
       <integer>-14</integer>
+    </dict>
+    <key>quotedblbase</key>
+    <dict>
+      <key>public.kern2.quoteleft</key>
+      <integer>-138</integer>
     </dict>
     <key>quotedblleft</key>
     <dict>

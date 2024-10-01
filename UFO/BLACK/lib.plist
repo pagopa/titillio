@@ -1065,6 +1065,12 @@
       <string>X.ss06</string>
       <string>Y.ss06</string>
       <string>Z.ss06</string>
+      <string>A_outline</string>
+      <string>M_narrow</string>
+      <string>Eng_hook</string>
+      <string>Q_shorttail</string>
+      <string>R_outline</string>
+      <string>W_narrow</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -1253,7 +1259,6 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>zdotbelow</string>
-      <string>a.01</string>
       <string>germandbls.calt</string>
       <string>a.ss01</string>
       <string>aacute.ss01</string>
@@ -1280,6 +1285,7 @@
       <string>fi</string>
       <string>fl</string>
       <string>fl.ss02</string>
+      <string>eng_hook</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
       <string>Delta</string>
@@ -1591,6 +1597,7 @@
       <string>whiteCircle</string>
       <string>dottedCircle</string>
       <string>lozenge</string>
+      <string>blackSquare</string>
       <string>slashshortcomb_L</string>
       <string>slashshortcomb_l</string>
       <string>dieresiscomb</string>
@@ -1630,7 +1637,6 @@
       <string>commaabovecomb.case</string>
       <string>strokeshortcomb.case</string>
       <string>dotaccentcomb.i</string>
-      <string>hungarumlautcomb.case.001</string>
       <string>slashshortcomb</string>
       <string>strokeshortcomb.T</string>
       <string>strokelongcomb.case</string>
@@ -1648,12 +1654,14 @@
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
+      <string>Left_hook</string>
       <string>Lslashcomb</string>
       <string>_quadrilium</string>
       <string>_quadriliumstroke</string>
       <string>_sferilium</string>
       <string>_sferiliumstroke</string>
       <string>_stroke_i_case</string>
+      <string>left_hook</string>
       <string>lslashcomb</string>
       <string>lslashcomb.ss02</string>
     </array>
@@ -2132,12 +2140,21 @@
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
+      <string>A_outline</string>
+      <string>Eng_hook</string>
+      <string>Left_hook</string>
       <string>Lslashcomb</string>
+      <string>M_narrow</string>
+      <string>Q_shorttail</string>
+      <string>R_outline</string>
+      <string>W_narrow</string>
       <string>_quadrilium</string>
       <string>_quadriliumstroke</string>
       <string>_sferilium</string>
       <string>_sferiliumstroke</string>
       <string>_stroke_i_case</string>
+      <string>eng_hook</string>
+      <string>left_hook</string>
       <string>lslashcomb</string>
       <string>lslashcomb.ss02</string>
       <string>slashshortcomb</string>

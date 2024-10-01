@@ -161,6 +161,7 @@
       <string>Oslashacute</string>
       <string>Otilde</string>
       <string>Q</string>
+      <string>Q_shorttail</string>
     </array>
     <key>public.kern1.P</key>
     <array>
@@ -588,20 +589,14 @@
     </array>
     <key>public.kern1.zero</key>
     <array>
-      <string>zero.zero</string>
       <string>zero.lf</string>
     </array>
     <key>public.kern1.zero.dnom</key>
     <array>
-      <string>zero.dnom</string>
-      <string>one.dnom</string>
-      <string>two.dnom</string>
-      <string>three.dnom</string>
       <string>four.dnom</string>
       <string>five.dnom</string>
       <string>six.dnom</string>
       <string>seven.dnom</string>
-      <string>eight.dnom</string>
       <string>nine.dnom</string>
     </array>
     <key>public.kern1.zero.numr</key>
@@ -798,6 +793,7 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
+      <string>Q_shorttail</string>
     </array>
     <key>public.kern2.S</key>
     <array>
@@ -1200,20 +1196,14 @@
     </array>
     <key>public.kern2.zero</key>
     <array>
-      <string>zero.zero</string>
       <string>zero.lf</string>
     </array>
     <key>public.kern2.zero.dnom</key>
     <array>
-      <string>zero.dnom</string>
-      <string>one.dnom</string>
-      <string>two.dnom</string>
-      <string>three.dnom</string>
       <string>four.dnom</string>
       <string>five.dnom</string>
       <string>six.dnom</string>
       <string>seven.dnom</string>
-      <string>eight.dnom</string>
       <string>nine.dnom</string>
     </array>
     <key>public.kern2.zero.numr</key>

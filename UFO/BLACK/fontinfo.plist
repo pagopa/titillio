@@ -11,64 +11,24 @@
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
-    <string>Titillio 03</string>
+    <string>Titillio</string>
     <key>guidelines</key>
     <array>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>250</integer>
         <key>y</key>
-        <integer>937</integer>
+        <integer>0</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>-696</integer>
         <key>y</key>
-        <integer>665</integer>
+        <integer>350</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>355</integer>
         <key>y</key>
-        <integer>756</integer>
+        <integer>-8</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>422</integer>
         <key>y</key>
-        <integer>548</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>422</integer>
-        <key>y</key>
-        <integer>159</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>422</integer>
-        <key>y</key>
-        <integer>537</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>422</integer>
-        <key>y</key>
-        <integer>173</integer>
+        <integer>342</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -96,7 +56,7 @@
     <key>openTypeNameManufacturerURL</key>
     <string>https://www.chialab.it/</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Black</string>
+    <string>Extrablack</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -170,14 +130,14 @@
     <real>0.055</real>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-14</integer>
+      <integer>-16</integer>
       <integer>0</integer>
       <integer>520</integer>
       <integer>536</integer>
       <integer>710</integer>
       <integer>726</integer>
       <integer>730</integer>
-      <integer>748</integer>
+      <integer>746</integer>
     </array>
     <key>postscriptFamilyBlues</key>
     <array>
@@ -196,10 +156,10 @@
       <real>-230.0</real>
     </array>
     <key>postscriptFontName</key>
-    <string>Titillio03-Black</string>
+    <string>Titillio-Extrablack</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-214</integer>
+      <integer>-216</integer>
       <integer>-200</integer>
     </array>
     <key>postscriptStemSnapH</key>
@@ -215,11 +175,11 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-80</integer>
     <key>styleMapFamilyName</key>
-    <string>Titillio 03 Black</string>
+    <string>Titillio Extrablack</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>Black</string>
+    <string>Extrablack</string>
     <key>trademark</key>
     <string>Titillium Sans Pro is a trademark of Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
     <key>unitsPerEm</key>
