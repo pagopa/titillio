@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent.ss02" format="2">
+  <advance width="294"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="commaaccentcomb" xOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 15:52:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

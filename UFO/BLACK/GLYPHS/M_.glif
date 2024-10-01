@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="995"/>
+  <unicode hex="004D"/>
+  <note>
+M
+</note>
+  <anchor x="498" y="0" name="bottom"/>
+  <anchor x="498" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="512" type="line"/>
+      <point x="260" y="512" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="730" y="478" type="line"/>
+      <point x="728" y="478" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="935" y="0" type="line"/>
+      <point x="935" y="710" type="line"/>
+      <point x="616" y="710" type="line"/>
+      <point x="472" y="250" type="line"/>
+      <point x="523" y="250" type="line"/>
+      <point x="379" y="710" type="line"/>
+      <point x="60" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-12 06:18:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

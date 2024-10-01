@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="437"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <component base="macroncomb" identifier="0C928F76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 13:40:17 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0C928F76</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

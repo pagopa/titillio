@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss05" format="2">
+  <advance width="1232"/>
+  <note>
+M
+</note>
+  <outline>
+    <component base="_quadriliumstroke"/>
+    <component base="M" xScale="0.9612" xOffset="139" identifier="FA240AB5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:21:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_quadriliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_quadriliumstroke</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FA240AB5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

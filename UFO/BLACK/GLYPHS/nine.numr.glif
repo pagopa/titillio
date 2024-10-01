@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.numr" format="2">
+  <advance width="338"/>
+  <outline>
+    <component base="nine.dnom" yOffset="401"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 08:54:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

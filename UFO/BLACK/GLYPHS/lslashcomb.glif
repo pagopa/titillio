@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslashcomb" format="2">
+  <advance width="320"/>
+  <anchor x="172" y="355" name="_center"/>
+  <outline>
+    <contour>
+      <point x="5" y="246" type="line"/>
+      <point x="161" y="302" type="line"/>
+      <point x="161" y="404" type="line"/>
+      <point x="5" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="290" type="line"/>
+      <point x="315" y="337" type="line"/>
+      <point x="315" y="442" type="line"/>
+      <point x="181" y="394" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-19 09:53:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>
