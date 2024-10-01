@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss04" format="2">
+  <advance width="1270"/>
+  <note>
+four
+</note>
+  <outline>
+    <component base="_sferilium"/>
+    <component base="four" xOffset="296"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 14:06:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferilium</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferilium</string>
+    </dict>
+  </lib>
+</glyph>

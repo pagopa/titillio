@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.ss06" format="2">
+  <advance width="1232"/>
+  <note>
+five
+</note>
+  <outline>
+    <component base="_quadrilium"/>
+    <component base="five" xOffset="300" identifier="9ABCEE46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 08:29:08 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_quadrilium</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_quadrilium</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9ABCEE46</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

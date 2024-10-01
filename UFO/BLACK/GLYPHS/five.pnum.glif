@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.pnum" format="2">
+  <advance width="497"/>
+  <note>
+five
+</note>
+  <outline>
+    <contour>
+      <point x="255" y="-16" type="curve" smooth="yes"/>
+      <point x="389" y="-16"/>
+      <point x="471" y="51"/>
+      <point x="471" y="161" type="curve" smooth="yes"/>
+      <point x="471" y="262"/>
+      <point x="398" y="327"/>
+      <point x="285" y="327" type="curve" smooth="yes"/>
+      <point x="221" y="327"/>
+      <point x="176" y="307"/>
+      <point x="151" y="268" type="curve"/>
+      <point x="195" y="228" type="line"/>
+      <point x="204" y="372" type="line" name="❌"/>
+      <point x="443" y="372" type="line" name="❌"/>
+      <point x="443" y="520" type="line"/>
+      <point x="57" y="520" type="line"/>
+      <point x="36" y="176" type="line"/>
+      <point x="194" y="176" type="line"/>
+      <point x="204" y="186"/>
+      <point x="226" y="193"/>
+      <point x="248" y="193" type="curve" smooth="yes"/>
+      <point x="283" y="193"/>
+      <point x="304" y="179"/>
+      <point x="304" y="155" type="curve" smooth="yes"/>
+      <point x="304" y="133"/>
+      <point x="284" y="120"/>
+      <point x="250" y="120" type="curve" smooth="yes"/>
+      <point x="226" y="120"/>
+      <point x="205" y="130"/>
+      <point x="196" y="145" type="curve"/>
+      <point x="31" y="145" type="line"/>
+      <point x="51" y="40"/>
+      <point x="129" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>-5</integer>
+        <key>height</key>
+        <real>73.4</real>
+        <key>weight</key>
+        <integer>-200</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 14:19:16 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>five</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

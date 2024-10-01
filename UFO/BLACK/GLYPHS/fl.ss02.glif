@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.ss02" format="2">
+  <advance width="695"/>
+  <outline>
+    <component base="f"/>
+    <component base="l.ss02" xOffset="401"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-07 08:18:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

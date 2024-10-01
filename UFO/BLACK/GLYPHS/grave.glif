@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="456"/>
+  <unicode hex="0060"/>
+  <outline>
+    <component base="gravecomb" identifier="EE85B8BD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 13:38:53 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EE85B8BD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

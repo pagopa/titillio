@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng" format="2">
+  <advance width="669"/>
+  <unicode hex="014B"/>
+  <outline>
+    <component base="n"/>
+    <component base="eng_hook" xOffset="227"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 08:01:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

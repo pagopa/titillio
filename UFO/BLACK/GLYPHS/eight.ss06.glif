@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.ss06" format="2">
+  <advance width="1232"/>
+  <note>
+eight
+</note>
+  <outline>
+    <component base="_quadrilium"/>
+    <component base="eight" xOffset="297" identifier="F9DDEF3C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 08:12:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_quadrilium</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_quadrilium</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F9DDEF3C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

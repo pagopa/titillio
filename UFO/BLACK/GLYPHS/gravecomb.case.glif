@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="456"/>
+  <anchor x="271" y="710" name="_top"/>
+  <anchor x="153" y="941" name="top"/>
+  <outline>
+    <component base="acutecomb.case" xScale="-1" xOffset="455" identifier="A4342280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 14:56:53 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A4342280</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

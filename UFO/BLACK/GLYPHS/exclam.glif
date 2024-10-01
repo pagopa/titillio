@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="312"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="51" y="254" type="line"/>
+      <point x="261" y="254" type="line"/>
+      <point x="277" y="710" type="line"/>
+      <point x="35" y="710" type="line"/>
+    </contour>
+    <component base="period" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 10:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>
