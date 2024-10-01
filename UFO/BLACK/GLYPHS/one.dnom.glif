@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="267"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="342" type="line"/>
+      <point x="138" y="342" type="line"/>
+      <point x="23" y="296" type="line"/>
+      <point x="23" y="185" type="line"/>
+      <point x="118" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>48</integer>
+        <key>weight</key>
+        <integer>-380</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 15:35:46 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>one.lf</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

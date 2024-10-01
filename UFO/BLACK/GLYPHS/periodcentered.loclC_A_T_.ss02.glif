@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT.ss02" format="2">
+  <advance width="154"/>
+  <outline>
+    <component base="periodcentered.loclCAT" identifier="10FE1012"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-23 06:44:40 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>10FE1012</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

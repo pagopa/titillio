@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onefifth" format="2">
+  <advance width="666"/>
+  <unicode hex="2155"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="259"/>
+    <component base="five.dnom" xOffset="334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 08:48:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

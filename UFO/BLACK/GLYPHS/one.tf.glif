@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="630"/>
+  <note>
+one
+</note>
+  <outline>
+    <component base="one"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 10:36:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.lf" format="2">
+  <advance width="483"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="710" type="line"/>
+      <point x="255" y="710" type="line"/>
+      <point x="42" y="610" type="line"/>
+      <point x="42" y="418" type="line"/>
+      <point x="221" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-10 16:25:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

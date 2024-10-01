@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.pnum" format="2">
+  <advance width="400"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="178" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="520" type="line"/>
+      <point x="204" y="520" type="line"/>
+      <point x="29" y="447" type="line"/>
+      <point x="29" y="268" type="line"/>
+      <point x="178" y="313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>-5</integer>
+        <key>height</key>
+        <real>73.4</real>
+        <key>weight</key>
+        <integer>-200</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 12:46:13 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>one.lf</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

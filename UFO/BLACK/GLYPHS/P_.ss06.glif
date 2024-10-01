@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P.ss06" format="2">
+  <advance width="1232"/>
+  <note>
+P
+</note>
+  <outline>
+    <component base="blackSquare" identifier="50BCF55D"/>
+    <component base="P" xOffset="291" identifier="ADB4BEEB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 07:23:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>blackSquare</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>blackSquare</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>50BCF55D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+        <key>ADB4BEEB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

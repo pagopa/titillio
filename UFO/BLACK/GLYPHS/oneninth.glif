@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneninth" format="2">
+  <advance width="672"/>
+  <unicode hex="2151"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="259"/>
+    <component base="nine.dnom" xOffset="334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 08:53:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

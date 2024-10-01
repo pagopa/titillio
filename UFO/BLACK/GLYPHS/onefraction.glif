@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onefraction" format="2">
+  <advance width="349"/>
+  <unicode hex="215F"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="259"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 08:47:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

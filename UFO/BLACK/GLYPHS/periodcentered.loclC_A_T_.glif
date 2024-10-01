@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="154"/>
+  <outline>
+    <contour>
+      <point x="77" y="285" type="curve" smooth="yes"/>
+      <point x="142" y="285"/>
+      <point x="165" y="310"/>
+      <point x="165" y="389" type="curve" smooth="yes"/>
+      <point x="165" y="468"/>
+      <point x="142" y="493"/>
+      <point x="77" y="493" type="curve" smooth="yes"/>
+      <point x="12" y="493"/>
+      <point x="-11" y="468"/>
+      <point x="-11" y="389" type="curve" smooth="yes"/>
+      <point x="-11" y="310"/>
+      <point x="12" y="285"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 14:59:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>
