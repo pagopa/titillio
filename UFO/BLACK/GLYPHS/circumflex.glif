@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="426"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <component base="circumflexcomb" identifier="ABDF8E96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 13:39:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ABDF8E96</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

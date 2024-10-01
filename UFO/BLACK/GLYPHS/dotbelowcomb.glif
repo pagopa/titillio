@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="310"/>
+  <unicode hex="0323"/>
+  <anchor x="155" y="0" name="_bottom"/>
+  <anchor x="155" y="-225" name="bottom"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="4" yOffset="-795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-07 08:39:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

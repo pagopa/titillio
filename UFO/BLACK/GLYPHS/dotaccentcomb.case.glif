@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <advance width="302"/>
+  <anchor x="151" y="710" name="_top"/>
+  <anchor x="151" y="917" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-09 15:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

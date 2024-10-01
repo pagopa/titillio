@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="323"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="293" y="157" type="line"/>
+      <point x="68" y="157" type="line"/>
+      <point x="14" y="-179" type="line"/>
+      <point x="207" y="-179" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-10 09:37:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>
