@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <advance width="450"/>
+  <anchor x="225" y="710" name="_top"/>
+  <anchor x="225" y="938" name="top"/>
+  <outline>
+    <component base="breve" yOffset="182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-11 07:47:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

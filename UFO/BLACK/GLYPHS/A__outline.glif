@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_outline" format="2">
+  <advance width="811"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="287" y="105" type="line"/>
+      <point x="516" y="105" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="561" y="710" type="line"/>
+      <point x="250" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="289" type="line"/>
+      <point x="402" y="498" type="line"/>
+      <point x="463" y="289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 14:03:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="456"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <component base="acutecomb" identifier="FBE74FCA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-11 13:39:04 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FBE74FCA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

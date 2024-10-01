@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <advance width="450"/>
+  <unicode hex="032E"/>
+  <anchor x="225" y="0" name="_bottom"/>
+  <anchor x="225" y="-230" name="bottom"/>
+  <outline>
+    <component base="brevecomb" yOffset="-801"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-07 08:19:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

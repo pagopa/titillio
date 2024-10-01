@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_quadrilium" format="2">
+  <advance width="1232"/>
+  <outline>
+    <contour>
+      <point x="49" y="-230" type="line"/>
+      <point x="49" y="904" type="line"/>
+      <point x="1183" y="904" type="line"/>
+      <point x="1183" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-10 08:11:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>blackSquare</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>blackSquare</string>
+    </dict>
+  </lib>
+</glyph>

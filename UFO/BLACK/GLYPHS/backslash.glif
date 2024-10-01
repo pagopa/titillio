@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="535"/>
+  <unicode hex="005C"/>
+  <outline>
+    <component base="slash" xScale="-1" xOffset="535" identifier="D70C8D39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-09-12 09:10:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D70C8D39</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
