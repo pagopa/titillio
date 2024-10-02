@@ -1,5 +1,4 @@
-
-![Cover_TitilliumPro_Display](https://github.com/AlbertoVelardi/titillium_pro_display/assets/164334880/e777fba6-7940-4a87-9cfb-0709b8e088fc)
+![TitillioCover](https://github.com/user-attachments/assets/536f8e2e-a52a-4f22-941a-cec25406eab7)
 
 
 ## **Il contesto**<br>
