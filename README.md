@@ -2,32 +2,28 @@
 
 
 ## **Il contesto**<br>
-PagoPA gestisce molti prodotti digitali rivolti sia ai cittadini che agli enti pubblici.
+PagoPA gestisce un ampio ecosistema di prodotti digitali rivolti sia ai cittadini sia agli enti pubblici.
 
-Data l'ampia varietà di servizi offerti e il numero di utenti che utilizzano PagoPA per effettuare transazioni digitali e altre importanti operazioni, i sistemi devono, ovviamente, gestire una grande mole di dati e renderli fruibili da un ampio pubblico.
+Considerata la varietà dei servizi offerti e l’alto numero di utenti che utilizzano PagoPA per effettuare transazioni e altre operazioni cruciali, i sistemi devono essere in grado di gestire grandi volumi di dati e renderli accessibili in modo semplice ed efficace.
 
-Data la natura dei servizi forniti da PagoPA e la vasta gamma di utenti che ne fanno uso, è fondamentale progettare prodotti che possano essere facilmente accessibili per tutti.
+Proprio per la natura pubblica e inclusiva dei servizi forniti, è essenziale progettare prodotti digitali che siano accessibili a tutti, indipendentemente dalle capacità individuali o dal contesto d’uso.
 
-A questo fine abbiamo già messo in atto strategie a livello trasversale che possano massimizzare il livello di accessibilità e fluidità dell’esperienza utente. Tali accorgimenti si riflettono in tuttle properties digitali di PagoPA e, in particolare modo, nel suo prodotto principale: l’app IO
+Per questo motivo abbiamo già implementato una serie di strategie trasversali mirate a massimizzare l’accessibilità e a garantire un’esperienza utente fluida e coerente. Questi principi guidano l’intero ecosistema digitale di PagoPA e si riflettono in modo particolare nel suo prodotto di punta: l’app IO.
 <br><br>
 
 ## **Il redesign di IO**<br>
-Per l’app IO è in corso un lungo processo che vede la riprogettazione completa di tutti i componenti e molti pattern di navigazione. 
+Per l’app IO è in corso un ampio processo di riprogettazione che coinvolge tutti i componenti e molti dei principali pattern di navigazione.
 
-Durante questo lavoro ci siamo subito accorti che la versione utilizzata del Titillium Web, seppur assolutamente completa, non sempre poteva rispondere a quello standard di leggibilità e accessibilità che avevamo utilizzato come metro per la costruzione degli altri componenti.
+Nel corso di questo lavoro, ci siamo subito resi conto che la versione del Titillium Web in uso, pur essendo una famiglia tipografica completa e versatile, non riusciva sempre a garantire i livelli di leggibilità e accessibilità che avevamo definito come standard per il nuovo sistema di componenti.
 <br><br>
 
-## **L’esigenza della variante Display**<br>
+## **L’esigenza di una nuova variante**<br>
 Nel marzo del 2024, con la pubblicazione del [Titillium Pro](https://github.com/chialab/titillium_pro) da parte di [Chialab](https://www.chialab.it/works/lunga-vita-al-titillium) (evoluzione del Titillium Web) molti di queste imperfezioni sono state corrette ma, avendo a che fare con un prodotto esclusivamente digitale, abbiamo ancora bisogno di alcune soluzioni specifiche che possano finalmente completare il nostro processo di redesign (e, speriamo, essere utili anche alla causa del Titillium Pro stesso). 
 
-Da qui è nata l’esigenza di contattare [Alessio D'Ellena](https://www.alessiodellena.com/) un Type Designer Senior che ci guiderà nel costruire una nuova famiglia del Titillium Pro con due varianti, utilizzabili idealmente e principalmente per le titolazioni delle pagine presenti in IO e su tutti gli altri prodotti digitali.
+Grazie alla collaborazione con [Alessio D'Ellena](https://www.alessiodellena.com/), senior type designer, abbiamo quindi dato vita a una nuova famiglia tipografica: partendo dall’eccellente base del Titillium, l’abbiamo adattata alle specifiche esigenze di un’interfaccia digitale come quella dell’app IO.
 
-Lavoreremo a partire dal già ottimo sviluppo del Titillium Pro e andremo a disegnare le varianti **Display Roman** e **Display Italic**.
+Lavorando sul già solido impianto del Titillium Pro, abbiamo progettato le varianti **Roman** e **Italic** del nuovo **Titillio**, un carattere pensato appositamente per l’uso su schermi e dispositivi digitali.
 
-L’attuale assenza di un font headline dedicato, infatti, appiattisce gli elementi rendendoli di difficile comprensione. 
-
-Spesso non è sufficiente giocare con i pesi, le dimensioni e lo stile.
-Inoltre, dovendo garantire l’accessibilità nei colori, non è possibile sfruttare i contrasti cromatici. 
 <br><br>
 
 ## **Il progetto e la modalità di gestione**<br>
