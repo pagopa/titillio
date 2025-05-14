@@ -42,7 +42,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>Copyright (c) 2025 Dipartimento per la Trasformazione Digitale, Presidenza del Consiglio dei Ministri</string>
+    <string>A new Font family tailored for excellent on-screen and digital device usability</string>
     <key>openTypeNameDesigner</key>
     <string>PagoPA S.p.A.</string>
     <key>openTypeNameDesignerURL</key>
@@ -181,7 +181,7 @@
     <key>styleName</key>
     <string>Thin</string>
     <key>trademark</key>
-    <string>Titillium Sans Pro is a trademark of Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
+    <string>Titillio is a Reserved Font Name of Dipartimento per la Trasformazione Digitale, Presidenza del Consiglio dei Ministri</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
