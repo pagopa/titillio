@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>710</integer>
     <key>copyright</key>
-    <string>Copyright (c) by Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
+    <string>Copyright (c) 2025 Dipartimento per la Trasformazione Digitale, Presidenza del Consiglio dei Ministri</string>
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
@@ -42,19 +42,19 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>Copyright (c) by Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
+    <string>A new Font family tailored for excellent on-screen and digital device usability</string>
     <key>openTypeNameDesigner</key>
-    <string>Alessio D'Ellena, Antonio D'Elisiis &amp; Chialab</string>
+    <string>PagoPA S.p.A.</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://www.chialab.it/</string>
+    <string>https://pagopa.it</string>
     <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/</string>
     <key>openTypeNameLicenseURL</key>
-    <string>https://www.chialab.it/</string>
+    <string>https://openfontlicense.org/</string>
     <key>openTypeNameManufacturer</key>
-    <string>Chialab</string>
+    <string>PagoPA S.p.A.</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>https://www.chialab.it/</string>
+    <string>https://pagopa.it</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Extrablack</string>
     <key>openTypeOS2CodePageRanges</key>
@@ -181,7 +181,7 @@
     <key>styleName</key>
     <string>Extrablack</string>
     <key>trademark</key>
-    <string>Titillium Sans Pro is a trademark of Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
+    <string>Titillio is a Reserved Font Name of Dipartimento per la Trasformazione Digitale, Presidenza del Consiglio dei Ministri</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
